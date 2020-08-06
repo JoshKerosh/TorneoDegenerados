@@ -1,0 +1,72 @@
+[
+    {
+        "guerrero": {
+            "nombre": "Anemik",
+            "tipo" : "Hierro",
+            "img" : "Anemik-Hierro.png"
+        }
+    },
+    {
+        "guerrero": {
+            "nombre": "Dodojetta",
+            "tipo" : "Aire",
+            "img" : "Dodojetta-Aire.png"
+        }
+    },
+    {
+        "guerrero": {
+            "nombre": "Duji",
+            "tipo" : "Magia Negra",
+            "img" : "Duji-MagiaNegra.png"
+        }
+    },
+    {
+        "guerrero": {
+            "nombre": "Natas",
+            "tipo" : "Fuego",
+            "img" : "Natas-Fuego.png"
+        }
+    },
+    {
+        "guerrero": {
+            "nombre": "Vanyi",
+            "tipo" : "Espiritual",
+            "img" : "Vanyi-Espiritual.png"
+        }
+    },
+    {
+        "guerrero": {
+            "nombre": "Gaskull",
+            "tipo" : "Acido",
+            "img" : "Gaskull-Acido.png"
+        }
+    },
+    {
+        "guerrero": {
+            "nombre": "Vita",
+            "tipo" : "Agua",
+            "img" : "Vita-Agua.png"
+        }
+    },
+    {
+        "guerrero": {
+            "nombre": "JaceCube",
+            "tipo" : "Hielo",
+            "img" : "JaceCube-Hielo.png"
+        }
+    },
+    {
+        "guerrero": {
+            "nombre": "Samir",
+            "tipo" : "Magia Blanca",
+            "img" : "Samir-MagiaBlanca.png"
+        }
+    },
+    {
+        "guerrero": {
+            "nombre": "Shockbabosa",
+            "tipo" : "Electricidad",
+            "img" : "Shockbabosa-Electrico.png"
+        }
+    }
+]

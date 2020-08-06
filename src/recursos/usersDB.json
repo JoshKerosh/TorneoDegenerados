@@ -1,0 +1,35 @@
+[
+    {
+        "user": {
+            "userName": "josh",
+            "ataquesLetales" : "0",
+            "ataquesFallados" : "0",
+            "muertes" : "0",
+            "ganadas" : "0",
+            "perdidas" : "0",
+            "rendiciones" : "0"
+        }
+    },
+    {
+        "user": {
+            "userName": "luigi",
+            "ataquesLetales" : "0",
+            "ataquesFallados" : "0",
+            "muertes" : "0",
+            "ganadas" : "0",
+            "perdidas" : "0",
+            "rendiciones" : "0"
+        }
+    },
+    {
+        "user": {
+            "userName": "mar",
+            "ataquesLetales" : "0",
+            "ataquesFallados" : "0",
+            "muertes" : "0",
+            "ganadas" : "0",
+            "perdidas" : "0",
+            "rendiciones" : "0"
+        }
+    }
+]

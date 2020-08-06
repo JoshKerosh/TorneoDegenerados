@@ -1,0 +1,62 @@
+[
+    {
+        "arma": {
+            "nombre": "Espada",
+            "img" : "espada.png"
+        }
+    },
+    {
+        "arma": {
+            "nombre": "Daga",
+            "img" : "daga.png"
+        }
+    },
+    {
+        "arma": {
+            "nombre": "Rayo",
+            "img" : "rayo.png"
+        }
+    },
+    {
+        "arma": {
+            "nombre": "Tabla",
+            "img" : "tabla.png"
+        }
+    },
+    {
+        "arma": {
+            "nombre": "Maso",
+            "img" : "maso.png"
+        }
+    },
+    {
+        "arma": {
+            "nombre": "Arco",
+            "img" : "arco.png"
+        }
+    },
+    {
+        "arma": {
+            "nombre": "Garra",
+            "img" : "garra.png"
+        }
+    },
+    {
+        "arma": {
+            "nombre": "Silla",
+            "img" : "silla.png"
+        }
+    },
+    {
+        "arma": {
+            "nombre": "Palo",
+            "img" : "palo.png"
+        }
+    },
+    {
+        "arma": {
+            "nombre": "Piedra",
+            "img" : "piedra.png"
+        }
+    }
+]
